@@ -12,4 +12,4 @@ done
 
 set -e
 
-./gradlew test
+./gradlew test --rerun-tasks
